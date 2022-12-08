@@ -35,7 +35,7 @@ will turn into "the happiest and most perfect time of my life."
 30분 공감과 1시간 공감이 있습니다. 모든 공감서비스에는 음료수가 포함되어 있습니다. 방문시 미리 예약해 주세요. 
 공감서비스 예약 https://naver.me/FHu7XTv1
 커피와 티를 마시면서 답답한 마음을 얘기하고 마음을 풀어주는 공간입니다. 
-![Image](KakaoTalk_20221016_215702846.jpg){:height="36px" width="36px"}
+![Image](KakaoTalk_20221016_215702846.jpg){height="36px" width="36px"}
 
 
 #### 카페공간을 공유해 드립니다
