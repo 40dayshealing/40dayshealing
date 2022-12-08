@@ -43,9 +43,9 @@ will turn into "the happiest and most perfect time of my life."
 사람들과 함께할 공간이 필요할 때 언제든지 사용할 수 있는 공간입니다. 
 
 ### 운영시간
-월~토  10시30분~7시30분 
+월-토  10시30분-7시30분 
 일요일  휴무
-Mon - Sat  11:30 AM - 8:00 PM
+Mon-Sat  11:30 AM-8:00 PM
 Sun  Closed 
 
 ### 연락처
