@@ -29,7 +29,7 @@ This pain will be much lighter if someone listens to me and sympathize with my s
 with days, meaning that the days of hardship we're going through 
 will turn into "the happiest and most perfect time of my life."
 
-## 당신의 얘기에 공감해 드립니다. 
-# 공감서비스
+#### 당신의 얘기에 공감해 드립니다. 
+### 공감서비스
 고민이 있지만, 가까이에서 얘기를 들어줄 사람이 없을 때 다른 사람을 대신해서 얘기를 들어주고 공감해 주는 서비스 입니다. 
 30분 공감과 1시간 공감이 있습니다. 모든 공감서비스에는 음료수가 포함되어 있습니다. 방문시 미리 예약해 주세요.
