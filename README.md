@@ -44,9 +44,9 @@ will turn into "the happiest and most perfect time of my life."
 ![Image](/assets/images/tux.png)
 
 ### 운영시간
-월-토  10시30분-7시30분 
+월-토  11시30분-8시30분 
 일요일  휴무
-Mon-Sat  11:30 AM-8:00 PM
+Mon-Sat  11:30 AM-8:30 PM
 Sun  Closed 
 
 ### 연락처
