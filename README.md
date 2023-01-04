@@ -56,7 +56,8 @@ Mon-Sat  11:30 AM-8:30 PM
 Sun  Closed 
 
 ### 연락처
-- 인스타그램: 40days_healingcafe 
-- 주소: 서울시 광진구 자양동 611-32, B101호, 102호
-- 이메일: 40dayshealing@naver.com
 - 전화: 010-7289-8242
+- 이메일: 40dayshealing@naver.com
+- 인스타그램: 40days_healingcafe
+- 웹사이트: http://40dayshealing.github.io 
+- 주소: 서울시 광진구 자양동 611-32, B101호, 102호
