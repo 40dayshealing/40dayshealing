@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 인생의 어두운 터널을 지나야 할 때가 있습니다.
 누군가 내 얘기에 귀 기울여 주고, 내 상황에 공감해준다면 이 고통이 훨씬 가벼워 질 것 같습니다.
 40days는 지나고 나면 별 것 아닌 "내 인생에서 가장 힘든 날들 "을 의미합니다.
@@ -50,10 +51,8 @@ will turn into "the happiest and most perfect time of my life."
 
 
 ### 운영시간
-월-토  11시30분-8시30분 
+월-토  11시30분-8시30분
 일요일  휴무
-Mon-Sat  11:30 AM-8:30 PM
-Sun  Closed 
 
 ### 연락처
 - 전화: 010-7289-8242
