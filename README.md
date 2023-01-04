@@ -33,6 +33,7 @@ will turn into "the happiest and most perfect time of my life."
 30분 공감과 1시간 공감이 있습니다. 모든 공감서비스에는 음료수가 포함되어 있습니다. 방문시 미리 예약해 주세요. 
 공감서비스 예약 https://naver.me/FHu7XTv1
 커피와 티를 마시면서 답답한 마음을 얘기하고 마음을 풀어주는 공간입니다. 
+
 ![Image]([Resized]당신의이야기를들어드립니다.jpg)
 
 #### 카페공간을 공유해 드립니다
@@ -40,6 +41,7 @@ will turn into "the happiest and most perfect time of my life."
 모임할 공간이 필요한 사람들에게 카페공간을 공유하는 서비스 입니다. 친구들과 만나서 얘기 하고 싶을 때, 가족들끼리 시간을 가지고 싶을 때, 새로운 사람들과 모임을 가지고 싶을 때, 인터뷰 장소가 필요할 때, 공연이나 전시회 장소가 필요할 때  공간을 공유합니다. 필요한 날짜와 시간을 미리 예약해 주세요. 
 공유서비스 예약 https://naver.me/GXR0ftfn
 사람들과 함께할 공간이 필요할 때 언제든지 사용할 수 있는 공간입니다. 
+
 ![Image]([Resized]KakaoTalk_20221130_234618569.jpg)
 ![Image]([Resized]KakaoTalk_20221116_165200717_06.jpg)
 ![Image]([Resized]KakaoTalk_20221016_215702846.jpg)
