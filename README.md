@@ -51,7 +51,7 @@ will turn into "the happiest and most perfect time of my life."
 
 
 ### 운영시간
-화-토  12시-9시, 일 2시-8시, 월요일  휴무
+월-토  12시-9시, 일 휴무
 
 ### 연락처
 - 전화: 010-7289-8242
